@@ -1,0 +1,14 @@
+{
+  "discountData": {
+    "apple": {
+      "individualPrice": 50,
+      "groupPrice": 130,
+      "groupCount": 3
+    },
+    "banana": {
+      "individualPrice": 30,
+      "groupPrice": 50,
+      "groupCount": 2
+    }
+  }
+}

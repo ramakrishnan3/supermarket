@@ -1,0 +1,24 @@
+{
+  "name": "supermarket-server",
+  "version": "1.0.0",
+  "description": "This project is to create rest APIs to talk to supermarket db",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ramakrishnan S",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
